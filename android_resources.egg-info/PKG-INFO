@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: android-resources
+Version: 0.1.0
+Summary: Reverse-engineer Android string tables from resources.arsc files
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Disassemblers
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# android-resources
