@@ -1,2 +1,0 @@
-[console_scripts]
-arsc-strings = android_resources.cli:main
